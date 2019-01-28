@@ -21,3 +21,4 @@ const countOdds = async function (fileName) {
     }
 }
 countOdds('./numbers')
+console.log("finito.")
